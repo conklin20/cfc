@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
+        <h1>Survly Demo Hosted in AWS Amplify</h1>
+        <h5>C:\users\caryc\Projects\cfc\clients\web\cfc-web-client</h5>
       </header>
     </div>
   );
